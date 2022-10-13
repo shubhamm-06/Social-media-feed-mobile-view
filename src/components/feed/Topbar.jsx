@@ -75,7 +75,7 @@ export default function Topbar() {
                 fontWeight: "550",
               }}
             >
-              Hookedu
+              logo
             </Typography>
           </Toolbar>
         </AppBar>
@@ -236,7 +236,7 @@ export default function Topbar() {
                         }}
                       >
                         {" "}
-                        About hookedu{" "}
+                        About logo{" "}
                       </Typography>
                     }
                   />
